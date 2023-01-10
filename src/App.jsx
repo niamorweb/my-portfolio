@@ -6,7 +6,6 @@ import Intro from "./components/Intro";
 function App() {
   //LINKS
   var linkMail = "mailto:niamorweb@skiff.com";
-  var linkTwitter = "https://twitter.com/niamorweb";
   var linkGitHub = "https://github.com/niamorweb";
 
 
@@ -14,7 +13,6 @@ function App() {
     <div className="App">
       <Header
         linkMail={linkMail}
-        linkTwitter={linkTwitter}
         linkGitHub={linkGitHub}
       />
 
@@ -32,7 +30,7 @@ function App() {
       <Intro />
       <Content />
 
-      <Footer   linkTwitter={linkTwitter} linkGitHub={linkGitHub} />
+      <Footer  linkGitHub={linkGitHub} />
     </div>
   );
 }
