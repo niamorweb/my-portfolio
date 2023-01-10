@@ -4,7 +4,7 @@ export default function Header({ linkMail, linkGitHub, }) {
   return (
     <>
       <header className="bg-transparent absolute left-0 right-0 top-0 flex items-center justify-between gap-8 px-6 py-4 lg:hidden">
-        <h2 className="brand_logo text-white text-lg ">NIAMOR WEB</h2>
+        <h2 className="brand_logo text-white text-lg ">ROMAIN L</h2>
         <div className="links flex items-center gap-4">
           <a href={linkGitHub} target="_blank">
             <svg
@@ -32,7 +32,7 @@ export default function Header({ linkMail, linkGitHub, }) {
       </header>
       <aside className="hidden nav_aside fixed left-0 top-0 bottom-0  w-24 flex flex-col justify-between items-center lg:flex">
         <h2 className="brand_logo text-white text-tb-rl text-xl rotate-180 mt-8 ">
-          NIAMOR WEB
+          ROMAIN L
         </h2>
         <div className="links flex flex-col items-center gap-4">
        
