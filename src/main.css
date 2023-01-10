@@ -216,7 +216,7 @@ tr .secondary-cursor .cursor-background:after, .secondary-cursor .cursor-backgro
 }
 @font-face {
   font-family: "Subtitle";
-  src: url(/portfolio/assets/fonts/Poppins-Regular.ttf);
+  src: url(/my-portfolio/assets/fonts/Poppins-Regular.ttf);
 }
 @font-face {
   font-family: "Main Title";

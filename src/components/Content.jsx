@@ -11,27 +11,27 @@ export default function Content() {
   const myLanguages = [
     {
       language: "HTML",
-      img: "../../../portfolio/assets/images/languages/html5.svg",
+      img: "../../../my-portfolio/assets/images/languages/html5.svg",
     },
     {
       language: "CSS",
-      img: "../../../portfolio/assets/images/languages/css.png",
+      img: "../../../my-portfolio/assets/images/languages/css.png",
     },
     {
       language: "SASS",
-      img: "../../../portfolio/assets/images/languages/sass.svg",
+      img: "../../../my-portfolio/assets/images/languages/sass.svg",
     },
     {
       language: "JAVASCRIPT",
-      img: "../../../portfolio/assets/images/languages/js.svg",
+      img: "../../../my-portfolio/assets/images/languages/js.svg",
     },
     {
       language: "REACT JS",
-      img: "../../../portfolio/assets/images/languages/react.svg",
+      img: "../../../my-portfolio/assets/images/languages/react.svg",
     },
     {
       language: "TAILWIND CSS",
-      img: "../../../portfolio/assets/images/languages/tailwind-css.svg",
+      img: "../../../my-portfolio/assets/images/languages/tailwind-css.svg",
     },
   ];
   useEffect(() => {
@@ -235,7 +235,7 @@ export default function Content() {
                           target="_blank"
                         >
                           <img
-                            src="../portfolio/assets/icons/icon-new-tab.svg"
+                            src="../my-portfolio/assets/icons/icon-new-tab.svg"
                             alt=""
                           />
                         </a>
@@ -245,7 +245,7 @@ export default function Content() {
                           target="_blank"
                         >
                           <img
-                            src="../portfolio/assets/icons/icon-github.svg"
+                            src="../my-portfolio/assets/icons/icon-github.svg"
                             alt=""
                           />
                         </a>

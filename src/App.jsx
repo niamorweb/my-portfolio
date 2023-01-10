@@ -23,7 +23,7 @@ function App() {
         loop
         id="myVideo"
       >
-        <source src="../portfolio/assets/videos/bg2.mp4" type="video/mp4" />
+        <source src="../my-portfolio/assets/videos/bg2.mp4" type="video/mp4" />
       </video>
 
 

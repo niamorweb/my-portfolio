@@ -19,7 +19,7 @@ export default function Footer({ linkTwitter, linkGitHub }) {
         <span className="flex ">
           <img
             className="mr-4 hidden md:block"
-            src="../../portfolio/assets/icons/icon-mail-white.png"
+            src="../../my-portfolio/assets/icons/icon-mail-white.png"
             alt=""
           />
           <span className=" hidden md:block"> Contact me by mail: </span>

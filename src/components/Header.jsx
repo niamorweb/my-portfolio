@@ -24,7 +24,7 @@ export default function Header({ linkMail, linkGitHub, }) {
           <a href={linkMail}>
             <img
               className="hover:scale-[1.3] duration-300"
-              src="../../portfolio/assets/icons/icon-mail-white.png"
+              src="../../my-portfolio/assets/icons/icon-mail-white.png"
               alt=""
             />
           </a>
@@ -54,7 +54,7 @@ export default function Header({ linkMail, linkGitHub, }) {
           <a href={linkMail}>
             <img
               className="hover:scale-[1.3] duration-300"
-              src="../../portfolio/assets/icons/icon-mail-white.png"
+              src="../../my-portfolio/assets/icons/icon-mail-white.png"
               alt=""
             />
           </a>
